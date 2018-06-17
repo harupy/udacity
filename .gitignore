@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#
+*Bike-Sharing-Dataset/
+
 # C extensions
 *.so
 
