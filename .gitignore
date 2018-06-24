@@ -6,6 +6,7 @@ __pycache__/
 # udacity
 *Bike-Sharing-Dataset/
 *assets/
+*official-repository/
 
 # C extensions
 *.so
