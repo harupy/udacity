@@ -8,6 +8,7 @@ __pycache__/
 *official-repository/
 *data/
 *submit/
+*submit.zip
 
 # C extensions
 *.so
