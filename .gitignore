@@ -6,6 +6,8 @@ __pycache__/
 # udacity
 *assets/
 *official-repository/
+*data/
+*submit/
 
 # C extensions
 *.so
