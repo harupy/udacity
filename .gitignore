@@ -9,6 +9,7 @@ __pycache__/
 *data/
 *submit/
 *submit.zip
+*checkpoints/
 
 # C extensions
 *.so
