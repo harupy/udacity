@@ -1,6 +1,7 @@
 .DS_Store
 dogImages/
 lfw/
+images/
 saved_models/
 .ipynb_checkpoints/
 bottleneck_features/
