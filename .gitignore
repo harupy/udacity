@@ -10,6 +10,7 @@ __pycache__/
 *submit/
 *submit.zip
 *checkpoints/
+*Solution.ipynb
 
 # C extensions
 *.so
