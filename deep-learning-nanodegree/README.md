@@ -5,5 +5,4 @@
 | 2: Dog Breed Classifier      | Jul 28             |:heavy_check_mark: |
 | 3: Generate TV Scripts       | Aug 18             |:heavy_check_mark: |
 | 4: Generate Faces            | Sep 8              |:heavy_check_mark: |
-| 5: Teach a Quaccopter to Fly | Oct 6              |                   |
-| 6: Term Deadline             | Oct 20             |                   |
+| 5: Teach a Quaccopter to Fly | Oct 6              |:heavy_check_mark: |
