@@ -1,6 +1,6 @@
-# Deep Learning Nano
-Start: 2018 Jun 13
-End: 2018 Aug 5
+# Deep Learning Nanodegree
+- Start: 2018 Jun 13
+- End: 2018 Aug 5
 
 ## Project Deadlines
 | Part  | Project to submit          | Suggested Due Date | Done              |
