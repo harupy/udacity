@@ -19,7 +19,7 @@ point-of-entry.
 - Pandas
 - Basic knowledge of probability, calculus, and linear algebra
 
-## Project Deadlines
+## Projects
 | No.   | Part                            |Project to submit          | Suggested Due Date | Done              |
 | :---: | ------------------------------- | ------------------------- |:------------------:|:-----------------:|
 | 1     | Introduction to Deep Learning   | -                         | -                  | -                 |
