@@ -13,14 +13,14 @@ Zhu, inventors of types of generative adversarial networks, as well as AI expert
 Andrew Trask. For anyone interested in this transformational technology, this program is an ideal
 point-of-entry.
 
-## Prerequisite
+## Prerequisites
 - Intermediate Python
 - Numpy
 - Pandas
 - Basic knowledge of probability, calculus, and linear algebra
 
 ## Project Deadlines
-| Part  | Lesson                          |Project to submit          | Suggested Due Date | Done              |
+| No.   | Part                            |Project to submit          | Suggested Due Date | Done              |
 | :---: | ------------------------------- | ------------------------- |:------------------:|:-----------------:|
 | 1     | Introduction to Deep Learning   | -                         | -                  | -                 |
 | 2     | Neural Networks                 | First Neural Network      | Jun 26             |:heavy_check_mark: |
