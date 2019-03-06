@@ -1,4 +1,4 @@
-# Deep Learning Nanodegree
+# [Udacity Deep Learning Nanodegree](https://www.udacity.com/course/deep-learning-nanodegree--nd101)
 A repository to manage the progress in the course.
 
 |Start|Complete|
