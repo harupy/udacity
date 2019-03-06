@@ -1,17 +1,13 @@
 # Deep Learning Nanodegree
-- Start: 2018 Jun 13
-- Complete: 2018 Aug 5
+A repository to manage the progress in the course.
 
-## Program Overview
-The Deep Learning Nanodegree program offers you a solid introduction to the world of artificial intelligence.
-In this program, you’ll master fundamentals that will enable you to go further in the field, launch or advance
-a career, and join the next generation of deep learning talent that will help define a beneficial, new,
-AI-powered future for our world. You will study cutting-edge topics such as Neural Networks, Convolutional
-Neural Networks, Recurrent Neural Networks, Generative Adversarial Networks, and Network Deployment,
-and build projects in PyTorch and NumPy. You'll learn from authorities such Ian Goodfellow and Jun-Yan
-Zhu, inventors of types of generative adversarial networks, as well as AI experts, Sebastian Thrun and
-Andrew Trask. For anyone interested in this transformational technology, this program is an ideal
-point-of-entry.
+|Start|Complete|
+|:-|:-|
+|2018 Jun 13|2018 Aug 5|
+
+## Course Overview
+> The Deep Learning Nanodegree program offers you a solid introduction to the world of artificial intelligence. In this program, you’ll master fundamentals that will enable you to go further in the field, launch or advance a career, and join the next generation of deep learning talent that will help define a beneficial, new, AI-powered future for our world. You will study cutting-edge topics such as Neural Networks, Convolutional Neural Networks, Recurrent Neural Networks, Generative Adversarial Networks, and Network Deployment,
+and build projects in PyTorch and NumPy. You'll learn from authorities such Ian Goodfellow and Jun-Yan Zhu, inventors of types of generative adversarial networks, as well as AI experts, Sebastian Thrun and Andrew Trask. For anyone interested in this transformational technology, this program is an ideal point-of-entry.
 
 ## Prerequisites
 - Intermediate Python
@@ -19,8 +15,8 @@ point-of-entry.
 - Pandas
 - Basic knowledge of probability, calculus, and linear algebra
 
-## Projects
-| No.   | Part                            |Project to submit          | Suggested Due Date | Done              |
+## Projects to submit
+| No.   | Part                            |Project Name               | Suggested Due Date | Done              |
 | :---: | ------------------------------- | ------------------------- |:------------------:|:-----------------:|
 | 1     | Introduction to Deep Learning   | -                         | -                  | -                 |
 | 2     | Neural Networks                 | First Neural Network      | Jun 26             |:heavy_check_mark: |
